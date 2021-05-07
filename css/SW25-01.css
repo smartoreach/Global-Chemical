@@ -8,7 +8,7 @@ h3 {
 }
 
 .SW25-01-service {
-    display: flex; 
+    display: flex;
     /* flex-direction: column; */
 }
 
@@ -132,7 +132,7 @@ h3 {
     text-align: left;
     color: rgb(42, 29, 138);
     font-size: 1rem;
-    font-weight: 600; 
+    font-weight: 600;
     word-spacing: 0.2rem;
 }
 
@@ -142,10 +142,10 @@ h3 {
     justify-content: left;
     padding: 5px 20px;
     margin-bottom: 20px;
-    font-weight: 400; 
+    font-weight: 400;
     text-align: center;
     color: rgb(170,170,170);
-    font-size: 0.9rem; 
+    font-size: 0.9rem;
 }
 
 .SW25-01-service-projects-details {
@@ -164,7 +164,7 @@ h3 {
     text-align: left;
     color: rgb(42, 29, 138);
     font-size: 1.2rem;
-    font-weight: 600; 
+    font-weight: 600;
     word-spacing: 0.2rem;
 }
 
@@ -250,7 +250,7 @@ h3 {
         width: 100%;
     }
     .SW25-01-service {
-        display: flex; 
+        display: flex;
         flex-direction: column;
         width: 100%;
     }
@@ -271,7 +271,8 @@ h3 {
     }
     .SW25-01-service-title-xs {
         display: block;
-        margin-top: 30px;
+        margin-top: 100px;
+        margin-left: 10px;
     }
     .SW25-01-service-description {
         margin-top: 30px;
