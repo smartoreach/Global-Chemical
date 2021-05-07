@@ -1,0 +1,39 @@
+#SW30-01 {
+  margin-top: 80px;
+
+  padding: 40px 8%;
+}
+.SW30-01-form-grid {
+
+}
+.SW30-01-form-grid p {
+  margin: 0;
+  padding: 0;
+  color: #444;
+}
+.SW30-01-form-grid input {
+  background: none;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #444;
+  margin-right: 10px;
+}
+.SW30-01-grid-row {
+  margin: 5px 0;
+  display: grid;
+  grid-template-columns: 2.5rem 70% auto;
+}
+
+#SW30-01 table {
+  border-collapse: collapse;
+}
+#SW30-01 td, #SW30-01 th {
+  border: 1px solid #bbb;
+  padding: 8px;
+  color: #444;
+}
+#SW30-01 table input {
+  background: none;
+  outline: none;
+  border: none;
+}

@@ -60,7 +60,9 @@
   top: 100px;
   /* width: 16%; */
 }
-
+.SW09-01-nav-card li:hover {
+  background-color: white;
+}
 @media (max-width:576px) {
   .SW09-01-nav {
     display: none;

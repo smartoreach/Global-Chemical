@@ -55,7 +55,7 @@
   object-fit: contain;
 }
 .SW07-01-card p {
-  min-height: 6rem;
+  min-height: 8rem;
   text-align: center;
   display: flex;
   align-items: center;
