@@ -416,8 +416,16 @@ a.SW22-01-B-products-quote-btn-sec:hover {
 }
 .SW22-01-B-products-quote-btn {
   font-size: 0.8rem;
+  margin-bottom: 20px;
 }
 #SW22-01-B-products-details-spec td {
   font-size: 0.8rem !important;
+}
+a.SW22-01-B-products-quote-btn-sec {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.SW25-01-service-img {
+  width: 280px !important;
 }
 }
